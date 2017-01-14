@@ -1,0 +1,19 @@
+{
+  "name": "audio-multichannel-testing",
+  "version": "1.0.0",
+  "description": "Some multichannel testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petetanton/audio-multichannel-testing.git"
+  },
+  "author": "Pete Tanton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petetanton/audio-multichannel-testing/issues"
+  },
+  "homepage": "https://github.com/petetanton/audio-multichannel-testing#readme"
+}
